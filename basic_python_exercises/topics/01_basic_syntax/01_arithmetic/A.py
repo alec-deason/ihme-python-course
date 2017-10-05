@@ -1,2 +1,2 @@
-def sqrt(a, b):
+def sqrt(a):
     pass

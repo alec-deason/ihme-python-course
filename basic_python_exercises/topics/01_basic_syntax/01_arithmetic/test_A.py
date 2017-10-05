@@ -1,7 +1,9 @@
-from A import add
+from A import sqrt
 
 
-def test_add():
-    for a, b in product(range(-100, 100), range(-100, 100)):
-        assert add(a, b) == a + b
+def test_sqrt():
+    for a in range(1, 100):
+        a /= 2
+        assert sqrt(a*a) == a
+    assert sqrt(-1) == 'cannot take the square root of a negative'
 
