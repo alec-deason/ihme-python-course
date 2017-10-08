@@ -1,9 +1,9 @@
-from A import sqrt
+import math
+
+from A import cos
 
 
-def test_sqrt():
-    for a in range(1, 100):
+def test_cos():
+    for a in range(-100, 100):
         a /= 2
-        assert sqrt(a*a) == a
-    assert sqrt(-1) == 'cannot take the square root of a negative'
-
+        assert cos(a) == math.cos(a)
