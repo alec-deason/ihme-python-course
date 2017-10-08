@@ -46,9 +46,9 @@ Let `a`, `b`, `c`, `d`, and `e` be elements of the set {`True`, `False`}.
 2. `a and not (b or c) =`
     1. `(a and b) or (a and c)`
     2. `(a or b) and (a or c)`
-    3. __Think of other distractors__
+    3. # Think of other distractors
     
-3. __Come up with complicated to simple problem__
+3. #Come up with complicated to simple problem
 
 In this next section we are going to move away from the simple examples 
 of the first section and introduce variations on a problem with a more complicated and realistic control
