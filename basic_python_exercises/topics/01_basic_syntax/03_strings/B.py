@@ -7,10 +7,7 @@ def reverse_string(s):
     reverse_string('the quick brown fox') -> 'xof nworb kciuq eht'
     """
 
-    result = ''
-    for i in range(len(s)):
-        result = result + s[len(s) - i - 1]
-    return result
+    return ''
 
 
 def count_occurrences(needle, haystack):
@@ -24,8 +21,4 @@ def count_occurrences(needle, haystack):
     count_occurrences('fox', 'there are no predators in this hen house') -> 0
     """
 
-    count = 0
-    for i in range(len(haystack)):
-        if haystack[i:i+len(needle)] == needle:
-            count += 1
-    return count
+    return 0

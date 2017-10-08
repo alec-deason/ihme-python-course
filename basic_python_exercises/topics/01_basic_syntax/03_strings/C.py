@@ -9,18 +9,7 @@ def reverse_words(s):
     reverse_words('dog') -> 'dog'
     """
 
-    words = []
-    current_word = ''
-    for c in s:
-        if c == ' ':
-            if len(current_word)>0:
-                words.append(current_word)
-                current_word = ''
-        else:
-            current_word = current_word + c
-    if len(current_word) > 0:
-        words.append(current_word)
-    return ' '.join(words)
+    return ''
 
 
 def count_characters(s):
@@ -35,10 +24,4 @@ def count_characters(s):
     count_characters('supercalifragalicious') -> {'a': 3, 'i': 3, 's': 2, 'u': 2, 'r': 2, 'c': 2, 'l': 2, 'p': 1, 'e': 1, 'f': 1, 'g': 1, 'o': 1}
     """
 
-    characters = {}
-    for c in s:
-        if c in characters:
-            characters[c] += 1
-        else:
-            characters[c] = 1
-    return characters
+    return {}

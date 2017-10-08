@@ -1,5 +1,3 @@
-import math
-
 import argparse
 
 
@@ -20,9 +18,7 @@ def floor_division(a, b):
     floor_division(-7, 3) -> -3
     """
 
-    if b == 0:
-        return 'cannot divide by zero'
-    return math.floor(a/b)
+    return 0
 
 
 ############################################################################
@@ -74,8 +70,6 @@ def calculator(operation, parameters):
         return multiply(parameters[0], parameters[1])
     elif operation == 'divide':
         return divide(parameters[0], parameters[1])
-    elif operation == 'floor_division':
-        return floor_division(parameters[0], parameters[1])
     else:
         raise ValueError('Unknown operation "{}"'.format(operation))
 

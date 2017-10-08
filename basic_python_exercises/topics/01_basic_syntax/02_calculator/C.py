@@ -9,17 +9,7 @@ def prime_factors(number):
     used like the other arithmetic operators implemented here.
     """
 
-    prime_factors = []
-    for i in range(2, int(number)+1):
-        if number % i == 0:
-            is_prime = True
-            for p in prime_factors:
-                if i % p == 0:
-                    is_prime = False
-                    break
-            if is_prime:
-                prime_factors.append(i)
-    return sum(prime_factors) + 1
+    return 0
 
 
 ############################################################################
@@ -71,8 +61,6 @@ def calculator(operation, parameters):
         return multiply(parameters[0], parameters[1])
     elif operation == 'divide':
         return divide(parameters[0], parameters[1])
-    elif operation == 'prime_factors':
-        return prime_factors(parameters[0])
     else:
         raise ValueError('Unknown operation "{}"'.format(operation))
 
