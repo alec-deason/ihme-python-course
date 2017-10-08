@@ -1,5 +1,3 @@
-from itertools import product
-
 from C import perfect_squares
 
 def test_perfect_squares():
