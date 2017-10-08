@@ -1,20 +1,27 @@
+import math
 import argparse
 
 
-def quadratic(a, b, c):
+def quadratic_roots(a, b, c):
     """
     Calculate and return the roots of the quadratic function specified by
     the supplied coefficients:
 
         ax^2 + bx + c = 0
 
+    Where the roots are undefined the result should be the string
+    'roots undefined'
+
     Add your implementation to the `calculator` function below so it can be
     used like the other arithmetic operators implemented here.
     """
 
-    positive_root = 0
-    negative_root = 0
-    return postive_root, negative_root
+    if a == 0 or b*b - 4*a*c < 0:
+        return 'roots undefined'
+
+    positive_root = (-b+math.sqrt(b*b - 4*a*c))/(2*a)
+    negative_root = (-b+math.sqrt(b*b - 4*a*c))/(2*a)
+    return positive_root, negative_root
 
 
 ############################################################################
@@ -66,6 +73,8 @@ def calculator(operation, parameters):
         return multiply(parameters[0], parameters[1])
     elif operation == 'divide':
         return divide(parameters[0], parameters[1])
+    elif operation == 'quadratic_roots':
+        return quadratic_roots(parameters[0], parameters[1], parameters[2])
     else:
         raise ValueError('Unknown operation "{}"'.format(operation))
 

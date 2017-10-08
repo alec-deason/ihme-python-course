@@ -13,4 +13,4 @@ def test_perfect_squares():
                 i += 1
             else:
                 break
-        assert set(perfect_squares(limit)) == squares
+        assert perfect_squares(limit) == (len(squares), sum(squares))

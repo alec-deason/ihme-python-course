@@ -1,3 +1,5 @@
+import math
+
 import argparse
 
 
@@ -6,6 +8,8 @@ def floor_division(a, b):
     Implement floor division, which is division that rounds down to the nearest
     whole number.
 
+    In the case where `b` is zero return the string 'cannot divide by zero'
+
     Add your implementation to the `calculator` function below so it can be
     used like the other arithmetic operators implemented here.
 
@@ -13,8 +17,12 @@ def floor_division(a, b):
     --------
     floor_division(7, 3) -> 2
     floor_division(10, 2) -> 5
+    floor_division(-7, 3) -> -3
     """
-    return 0
+
+    if b == 0:
+        return 'cannot divide by zero'
+    return math.floor(a/b)
 
 
 ############################################################################
@@ -66,6 +74,8 @@ def calculator(operation, parameters):
         return multiply(parameters[0], parameters[1])
     elif operation == 'divide':
         return divide(parameters[0], parameters[1])
+    elif operation == 'floor_division':
+        return floor_division(parameters[0], parameters[1])
     else:
         raise ValueError('Unknown operation "{}"'.format(operation))
 

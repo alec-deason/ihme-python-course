@@ -8,7 +8,12 @@ def every_other_character(s):
     every_other_character('the quick brown fox') -> 'teqikbonfx'
     """
 
-    return ''
+    result = ''
+    for i in range(len(s)):
+        if i % 2 != 0:
+            result = result + s[i]
+    return result
+
 
 
 def every_other_character_capitalized(s):
@@ -21,4 +26,11 @@ def every_other_character_capitalized(s):
     every_other_character_capitalized('the quick brown fox') -> 'tHe qUiCk bRoWn fOx'
     """
 
-    return ''
+    result = ''
+    for i in range(len(s)):
+        if i % 2 != 0:
+            result = result + s[i].upper()
+        else:
+            result = result + s[i]
+
+    return result
