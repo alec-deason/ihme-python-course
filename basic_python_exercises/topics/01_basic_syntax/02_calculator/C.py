@@ -72,7 +72,7 @@ if __name__ == '__main__':
 
     You can run this script from the command line like this:
 
-    >> python A.py add 1 2
+    >> python C.py add 1 2
     3
 
     Note
