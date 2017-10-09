@@ -39,16 +39,22 @@ Let `a`, `b`, `c`, `d`, and `e` be elements of the set {`True`, `False`}.
 
 1. `not (a or b) =` 
     1. `(not a) or (not b)`
-    2. `(not a) and (not b)`
-    3. `(not a) or b`
-    4. `((not a) or b) and (a or (not b))`
+    2. `((not a) or b) and (a or (not b))`
+    3. `(not a) and (not b)`
+    4. `(not a) or b`
+    
     
 2. `a and not (b or c) =`
     1. `(a and b) or (a and c)`
     2. `(a or b) and (a or c)`
-    3. # Think of other distractors
+    3. `not((not a) and b or c)`
+    4. `(a and (not b)) or (a and (not c))`
     
-3. #Come up with complicated to simple problem
+3. `not(a or b and (not(c) and d)) or e =`
+    1. `((not a) and (not b) or not(not(c) and d)) or e`
+    2. `((not a) and (not b) or (c or (not d)) or e`
+    3. `not(a or b and ((not c) and d) and (not e))` 
+    4. `(not a) and (not b) or not((not c) and d and (not e))`
 
 In this next section we are going to move away from the simple examples 
 of the first section and introduce variations on a problem with a more complicated and realistic control
