@@ -1,7 +1,7 @@
 import random
 import math
 
-from .class_exercise import available_ingredients, determine_pizza_choices
+from class_exercise import available_ingredients, determine_pizza_choices
 
 
 def test_determine_pizza_choices():

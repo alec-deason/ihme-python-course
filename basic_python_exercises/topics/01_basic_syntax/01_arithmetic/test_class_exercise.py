@@ -2,7 +2,7 @@ import random
 
 import pytest
 
-from .class_excercise import add, subtract, multiply, divide
+from class_excercise import add, subtract, multiply, divide
 
 
 def test_add():

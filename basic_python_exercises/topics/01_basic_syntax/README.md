@@ -62,3 +62,13 @@ familiar with:
 - Booleans
 - Strings
 - Container types (lists, dicts, tuples, etc.)
+
+## Comments
+
+Comments in python come in two forms:
+
+1. In-line comments.  These comments begin with a `#` and are usually written on a single line.
+2. Docstrings and other multi-line comments.  These comments are surrounded by **triple-double quotes**.  
+   They are most often used to document functions and classes and modules (and when they do, they are
+   referred to as docstrings), however they can also be used for any other long bit of narrative documentation
+   in your code.

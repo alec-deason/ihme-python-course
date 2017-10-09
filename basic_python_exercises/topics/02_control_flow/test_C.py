@@ -1,6 +1,6 @@
 import random
 from itertools import combinations
-from .C import possible_ingredients, determine_pizza_choices
+from C import possible_ingredients, determine_pizza_choices
 
 
 def test_determine_pizza_choices():
