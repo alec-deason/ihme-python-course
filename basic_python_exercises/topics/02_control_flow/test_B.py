@@ -1,6 +1,6 @@
 import random
 import math
-from .B import possible_ingredients, determine_pizza_choices
+from B import possible_ingredients, determine_pizza_choices
 
 
 def test_determine_pizza_choices():

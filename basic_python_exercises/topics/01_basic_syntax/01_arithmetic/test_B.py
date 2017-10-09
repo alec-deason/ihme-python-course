@@ -1,7 +1,7 @@
 import math
 from itertools import product
 
-from .B import quadratic
+from B import quadratic
 
 
 def test_quadratic():
