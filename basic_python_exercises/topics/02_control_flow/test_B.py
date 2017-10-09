@@ -1,4 +1,5 @@
 import random
+import math
 from .B import possible_ingredients, determine_pizza_choices
 
 
@@ -12,6 +13,6 @@ def test_determine_pizza_choices():
             dislikes.append(random.sample(available_ingredients, random.randint(0, len(possible_ingredients))))
 
         no_good = set(*dislikes)
+        remaining_ingredients = set(available_ingredients).difference(no_good)
         func_out = determine_pizza_choices(available_ingredients, dislikes)
-        assert len(func_out) == len(set(func_out))
-        assert set(func_out) == set(available_ingredients).difference(set(no_good))
+        assert func_out == math.factorial(len(remaining_ingredients))

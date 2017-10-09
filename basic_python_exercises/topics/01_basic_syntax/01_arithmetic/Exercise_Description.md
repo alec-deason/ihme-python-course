@@ -48,7 +48,7 @@ Then we should have
 (-0.30315449786352744, -7.696845502136473)
 ```
 
-Exercise C:
+## Exercise C:
 
 Calculate the count and sum of all [square numbers](https://en.wikipedia.org/wiki/Square_number) 
 bigger than zero and less than a specified limit.
