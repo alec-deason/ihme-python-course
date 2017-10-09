@@ -52,13 +52,4 @@ def inplace_bubble_sort(l):
     l == [10,20,30]
     """
 
-    did_swap = True
-    while did_swap:
-        did_swap = False
-        for i in range(1, len(l)):
-            if l[i-1] > l[i]:
-                a = l[i-1]
-                b = l[i]
-                l[i] = a
-                l[i-1] = b
-                did_swap = True
+    pass

@@ -18,25 +18,4 @@ def cesar_cypher_reader(message, key):
     cesar_cypher_reader('test', [' ', 'z', 'y', 'x', 't', 's', 'r', 'q', 'p', 'o', 'n', 'm', 'l', 'k', 'j', 'i', 'h', 'g', 'f', 'e', 'd', 'c', 'b', 'a']) -> 'test'
     """
 
-    plain_text = ''
-    for c in message:
-        for i, cc in enumerate(key):
-            if c == cc:
-                plain_text = plain_text+'abcdefghijklmnopqrstuvwxyz '[i]
-                break
-    return ''.join(plain_text)
-
-def cesar_cypher_writer(message, key):
-    """
-    Implement a Cesar cypher encoder. This should be the inverse of the
-    function above. Given a `message` in plain text and the cypher alphabet
-    `key` return the encoded message.
-    """
-
-    cypher_text = ''
-    for c in message:
-        for i, cc in enumerate('abcdefghijklmnopqrstuvwxyz '):
-            if cc == c:
-                cypher_text = cypher_text + key[i]
-                break
-    return ''.join(cypher_text)
+    return ''

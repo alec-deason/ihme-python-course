@@ -32,12 +32,4 @@ def course_tester(courses):
                    ['cream', 'chocolate', 'sugar']) -> False
     """
 
-    for i in range(1, len(courses)):
-        matched = False
-        for ingredient in courses[i]:
-            if ingredient in courses[i-1]:
-                matched = True
-                break
-        if not matched:
-            return False
-    return True 
+    return False
