@@ -1,6 +1,6 @@
 import math
 
-from A import cos
+from .A import cos
 
 
 def test_cos():

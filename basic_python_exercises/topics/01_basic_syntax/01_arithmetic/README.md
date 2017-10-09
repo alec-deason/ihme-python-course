@@ -1,11 +1,16 @@
-Exercise A:
+# Arithmetic Operators in Python
 
-Calculate the cosine of a number.
+Python supports all the basic mathematical operations you're familiar with as well as
+a few you may not know.
 
-Exercise B:
+Assume we have two variables: `a` which holds the value 10 and `b` which holds the value 21.
 
-Calculate the roots of a quadratic equation given it's coefficients.
-
-Exercise C:
-
-Calculate the count and sum of all perfect squares less than a specified limit.
+| Operator        | Description | Example |
+|----------       |-------------|---------|
+| Addition:`+`    |Adds values on either side of the operator. | `a + b = 31` |
+| Subtraction:`-` |	Subtracts right hand operand from left hand operand.| `a - b = -11` |
+| Multiplication:`*`|Multiplies values on either side of the operator| `a * b = 210` |
+| Division:`\` | Divides left hand operand by right hand operand | `b / a = 2.1` |
+| Modulus:`%` | Divides left hand operand by right hand operand and returns remainder | `b % a = 1` |
+| Exponent:`**` | Raises the left hand operand to the power of the right hand operand | `a**b = 10 to the power 21` |
+| Floor Division:`\\` | Floor Division - The division of operands where the result is the quotient in which the digits after the decimal point are removed. But if one of the operands is negative, the result is floored, i.e., rounded away from zero (towards negative infinity) | `9//2 = 4 and 9.0//2.0 = 4.0`  `-11//3 = -4, -11.0//3 = -4.0` | 
