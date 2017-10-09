@@ -1,7 +1,7 @@
 import argparse
 
 
-def prime_factors(number):
+def sum_of_prime_factors(number):
     """
      Return the sum of the prime factors of `number`
 

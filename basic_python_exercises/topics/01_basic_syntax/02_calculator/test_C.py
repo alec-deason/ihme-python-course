@@ -2,7 +2,7 @@ from itertools import product
 
 from C import calculator
 
-def test_prime_factors():
+def test_sum_of_prime_factors():
     for a in range(0, 100):
         prime_factors = []
         for i in range(2, a+1):
@@ -14,7 +14,7 @@ def test_prime_factors():
                         break
                 if is_prime:
                     prime_factors.append(i)
-        assert calculator('prime_factors', [a]) == sum(prime_factors) + 1
+        assert calculator('sum_of_prime_factors', [a]) == sum(prime_factors) + 1
 
 
 def test_add():
