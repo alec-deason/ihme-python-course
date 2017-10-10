@@ -1,4 +1,4 @@
-##Exercise A:
+## Exercise A:
 
 Calculate the cosine of a number.
 
@@ -19,7 +19,7 @@ The cosine of the given number.
 Note that this number is very close to zero, which is what we expect.
 
 
-##Exercise B:
+## Exercise B:
 
 Calculate the roots of a [quadratic equation](https://en.wikipedia.org/wiki/Quadratic_equation) 
 given it's coefficients.

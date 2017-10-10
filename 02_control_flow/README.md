@@ -33,7 +33,7 @@ putting a minus sign in front of a number turns it into its additive inverse.  I
 bit here, but only because this system which should feel common-sensicle often becomes very difficult 
 to think through when you have to apply it to real world examples.  Let's look at a few toy problems first:
 
-*Class Questions*
+### Class Questions
 
 Let `a`, `b`, `c`, `d`, and `e` be elements of the set {`True`, `False`}.
 

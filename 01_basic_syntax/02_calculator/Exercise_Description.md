@@ -11,7 +11,7 @@ The calculator in each exercise can be run from the command line like so:
 16
 ```
 
-##Exercise A:
+## Exercise A:
 
 Calculate the roots of a [quadratic equation](https://en.wikipedia.org/wiki/Quadratic_equation) 
 given it's coefficients.
@@ -39,7 +39,7 @@ Then we should have
 ```
 
 
-##Exercise B:
+## Exercise B:
 
 Implement floor division, which is division that rounds down to the nearest
 whole number.
@@ -59,7 +59,7 @@ Two numbers, the numerator `a` and the divisor `b`.
 3
 ```
 
-##Exercise C:
+## Exercise C:
 
 Calculate the sum of [prime factors](https://en.wikipedia.org/wiki/Prime_factor) of a number.
 

@@ -1,4 +1,4 @@
-##Exercise A:
+## Exercise A:
 
 Given a variable input list of ingredients in addition to the lists of dislikes you
 and your friends share, determine the number of different pizzas you can order.
@@ -36,7 +36,7 @@ Since after removing all the disliked ingredients we have the remaining list
 and there are `4! = 4*3*2*1 = 24` ways we can uniquely combine 4 ingredients.
 
 
-##Exercise B:
+## Exercise B:
 
 You're trying to generalize a bit and you decide you want a tool that can tell you
 the number of pizzas you can order regardless of how many friends you're trying to 
