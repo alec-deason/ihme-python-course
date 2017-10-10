@@ -10,4 +10,5 @@ tests that identify which functions are correct.
 
 # Exercise C
 
-
+Test two functions which calculate statistics on text. Write tests that
+identify which functions are correct.
