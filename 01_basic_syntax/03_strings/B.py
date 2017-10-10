@@ -10,15 +10,18 @@ def reverse_string(s):
     return ''
 
 
-def count_occurrences(needle, haystack):
+def swap_characters(s):
     """
-    Return the number of times the string `needle` occures in the string
-    `haystack`.
+    Return a copy of string `s` with each pair of adjacent characters swapped.
+    So the first and second characters should be swapped and the third and
+    fourth should be swapped etc. If the string has an odd number of characters
+    there will be nothing to swap the last character with so it should remain
+    unchanged.
 
     Examples
     --------
-    count_occurrences('fox', 'the quick brown fox') -> 1
-    count_occurrences('fox', 'there are no predators in this hen house') -> 0
+    swap_characters('the quick brown fox') -> 'ht euqci krbwo nofx'
+    count_occurrences('fish') -> 'ifhs'
     """
 
     return 0

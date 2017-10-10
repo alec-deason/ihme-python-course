@@ -1,6 +1,6 @@
 import re
 
-from B import reverse_string, count_occurrences
+from B import reverse_string, swap_characters
 
 
 def test_reverse_string():
@@ -8,7 +8,9 @@ def test_reverse_string():
         assert reverse_string(s) == ''.join(reversed(s))
 
 
-def test_count_occurrences():
-    for haystack in ['there are three fish in the fishy fish bowl', 'a'*10000, '', 'foobar']:
-        for needle in ['fish', 'foo', 'a', 'whumpus']:
-            assert count_occurrences(needle, haystack) == len(re.findall(needle, haystack))
+def test_swap_characters():
+    for s in ['thing', 'foo bar', 'b'*100000, '']:
+        swapped = ''.join([s[i+1]+s[i] for i in range(0,len(s)-1,2)])
+        if len(s) % 2 != 0:
+            swapped = swapped+s[-1]
+        assert swap_characters(s) == swapped
