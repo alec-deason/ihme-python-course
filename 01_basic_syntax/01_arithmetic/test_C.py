@@ -1,5 +1,6 @@
 from C import perfect_squares
 
+
 def test_perfect_squares():
     for limit in range(0, 200):
         squares = set()
