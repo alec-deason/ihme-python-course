@@ -1,9 +1,9 @@
-from .B import passing_function, failing_function
+from .B import column_sum, column_mean
 
 
-def test_passing_function():
+def test_column_sum():
     pass
 
 
-def test_failing_function():
+def test_column_mean():
     pass

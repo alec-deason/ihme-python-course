@@ -1,8 +1,14 @@
+import math
+
+def area_of_a_circle(radius):
+    """
+    Calculate the area of a circle
+    """
+    return math.pi * radius**2
 
 
-def passing_function(*args, **kwargs):
-    pass
-
-
-def failing_function(*args, **kwargs):
-    pass
+def volume_of_a_cylinder(radius, height):
+    """
+    Calculate the volume of a cylinder.
+    """
+    return math.pi * radius * height**2

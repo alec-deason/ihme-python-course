@@ -1,8 +1,6 @@
+def passing_function():
+    return 'Hello, World!'
 
 
-def passing_function(*args, **kwargs):
-    pass
-
-
-def failing_function(*args, **kwargs):
-    pass
+def failing_function(name):
+    return 'Hello, name'.format(name)
