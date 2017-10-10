@@ -3,7 +3,7 @@
 
 ## Course materials
 
-### [github.com/ihmeuw/ihme-python-course](https://github.com/ihmeuw/ihme-python-course)
+### [github.com/ihmeuw/ihme-python-course](https://github.com/alec-deason/ihme-python-course/tree/compact_version)
 
 First, you're going to want to get a copy of this repository onto your
 machine. Simply fire up ``git`` and clone it:
@@ -15,16 +15,23 @@ machine. Simply fire up ``git`` and clone it:
     ``/Users/<user>/repos/`` on Mac, or ``/home/<user>/repos/`` on Unix).
 
 3.  Clone this repo:
-        git clone https://github.com/ihmeuw/ihme-python-course.git
+        git clone https://github.com/alec-deason/ihme-python-course.git
         
 If you need help with setting up `git`, see 
 [this page](https://help.github.com/articles/set-up-git/#setting-up-git) or 
-simply download the repo as a [zip file](https://github.com/IHME/ihme-python-course/archive/master.zip) for now...
+simply download the repo as a [zip file](https://github.com/alec-deason/ihme-python-course/archive/compact_version.zip) for now...
 
 ![I wrote 20 short programs in Python yesterday. It was wonderful. Perl, I'm leaving you.](http://imgs.xkcd.com/comics/python.png)
 
 via [xkcd](https://xkcd.com/353/) (see also [xkcd in python](https://pypi.python.org/pypi/xkcd/) 
 and [xkcd for matplotlib](http://matplotlib.org/xkcd/examples/showcase/xkcd.html))
+
+## Opening the project in PyCharm
+
+To get set up, we first want to open up PyCharm.  You'll be faced with one of two screens here, 
+depending on whether or not you've opened a project before.  Regardless of where we're at,
+we want to use the `Open Project` option to open the `ihme-python-course` directory. This is 
+found as one of the options on the PyCharm launch screen, or in the `File` menu.
 
 # What is Python?
 
