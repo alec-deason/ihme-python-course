@@ -21,10 +21,10 @@
     - Lists (01:00 - 01:25)
     - Dicts (01:25 - 01:50)
     - Others (tuples, sets, collections) (01:50 - 02:00)
-8. Exceptions and Debugging (Day 2: 02:00 - 02:40)
+8. **Exceptions and Debugging** (Day 2: 02:00 - 02:40)
     - Exceptions, Errors, Interactive debugging (02:00 - 02:40).
-9. Outro (02:40 - 02:50)
+9. **Outro** (02:40 - 02:50)
     - Installing packages with conda and pip (scientific python stack)
     - PyPI, Use an already implemented solution whenever possible.
-10. Closing (02:50 - 3:00) 
+10. **Closing** (02:50 - 3:00) 
 
