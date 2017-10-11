@@ -1,14 +1,12 @@
-import math
-
-def area_of_a_circle(radius):
+def area_of_a_square(edge_length):
     """
-    Calculate the area of a circle
+    Calculate the area of a square
     """
-    return math.pi * radius**2
+    return edge_length**2
 
 
-def volume_of_a_cylinder(radius, height):
+def volume_of_a_rectangular_solid(width, length, height):
     """
-    Calculate the volume of a cylinder.
+    Calculate the volume of a rectangular solid.
     """
-    return math.pi * radius * height**2
+    return width * length * width

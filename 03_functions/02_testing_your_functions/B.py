@@ -6,18 +6,16 @@ def _read_column(name):
     with open('data/{}.data'.format(name)) as f:
             return [float(l.strip()) for l in f]
 
+
 def column_sum(column_data):
     total = 0
     for r in column_data:
         total += int(r)
     return total
 
+
 def column_mean(column_data):
-    # Convert to numbers
-    column_data = [r for r in column_data]
-
     return sum(column_data)/len(column_data)
-
 
 
 if __name__ == '__main__':

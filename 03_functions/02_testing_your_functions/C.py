@@ -1,5 +1,3 @@
-import re
-
 def _load_text():
     with open('data/The_mysterious_affair_at_styles.txt') as f:
         text = f.read()
@@ -22,8 +20,8 @@ def cat_to_murder_ratio(text):
     cat_to_murder_ratio('Murder is the only thing on the cat's mind.') -> 1.0
     """
 
-    murder_count = len(re.findall('murder', text))
-    cat_count = len(re.findall('cat', text))
+    murder_count = text.count('murder')
+    cat_count = text.count('cat')
 
     return cat_count / murder_count
 
@@ -32,12 +30,21 @@ def line_count(text):
     """
     Counts the number of line returns in a piece of text.
 
+    Note
+    ----
+    Python (and most other programming languages) uses the special character
+    sequence '\n' to represent new lines.
+
     Example
     -------
     line_count('this\nhas\nthree\nlines') -> 3
     """
 
-    line_count = len(re.findall('\n', text))
+    line_count = text.count('\n')
+    # There will always be one more line than there are line breaks because
+    # of the first line, so account for that.
+    line_count += 1
+
     return line_count
 
 if __name__ == '__main__':
