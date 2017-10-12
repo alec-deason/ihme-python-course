@@ -1,5 +1,7 @@
 # Control Flow
 
+## Boolean Algebra
+
 In the previous section we introduced the building blocks for constructing the flow of control in 
 your computer programs.  We've seen looping statements using the `for` keyword and branching statements
 using `if`, `elif`, and `else`.  Over the course of the next several months, one of the primary skills you 
@@ -35,7 +37,7 @@ to think through when you have to apply it to real world examples.  Let's look a
 
 ### Class Questions
 
-Let `a`, `b`, `c`, `d`, and `e` be elements of the set {`True`, `False`}.
+Let `a`, `b`, and `c` be elements of the set {`True`, `False`}.
 
 1. `not (a or b) =` 
     1. `(not a) or (not b)`
@@ -49,12 +51,6 @@ Let `a`, `b`, `c`, `d`, and `e` be elements of the set {`True`, `False`}.
     2. `(a or b) and (a or c)`
     3. `not((not a) and b or c)`
     4. `(a and (not b)) or (a and (not c))`
-    
-3. `not(a or b and (not(c) and d)) or e =`
-    1. `((not a) and (not b) or not(not(c) and d)) or e`
-    2. `((not a) and (not b) or (c or (not d)) or e`
-    3. `not(a or b and ((not c) and d) and (not e))` 
-    4. `(not a) and (not b) or not((not c) and d and (not e))`
 
 In this next section we are going to move away from the simple examples 
 of the first section and introduce variations on a problem with a more complicated and realistic control
