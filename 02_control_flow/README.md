@@ -40,17 +40,17 @@ to think through when you have to apply it to real world examples.  Let's look a
 Let `a`, `b`, and `c` be elements of the set {`True`, `False`}.
 
 1. `not (a or b) =` 
-    1. `(not a) or (not b)`
-    2. `((not a) or b) and (a or (not b))`
-    3. `(not a) and (not b)`
-    4. `(not a) or b`
+    1. `not a or not b`
+    2. `(not a or b) and (a or not b)`
+    3. `not a and not b`
+    4. `not a or b`
     
     
-2. `a and not (b or c) =`
-    1. `(a and b) or (a and c)`
-    2. `(a or b) and (a or c)`
-    3. `not((not a) and b or c)`
-    4. `(a and (not b)) or (a and (not c))`
+2. `a and not (b and c) =`
+    1. `(a and not b) or (a and not c)`
+    2. `(not (a or b)) and (not (a or c))`
+    3. `not((not a and b) or c)`
+    4. `(a and not b) or (a and not c)`
 
 In this next section we are going to move away from the simple examples 
 of the first section and introduce variations on a problem with a more complicated and realistic control
