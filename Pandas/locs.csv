@@ -1,0 +1,929 @@
+"location_id","location_name","level"
+1,"Global",0
+4,"Southeast Asia, East Asia, and Oceania",1
+5,"East Asia",2
+6,"China",3
+354,"Hong Kong Special Administrative Region of China",4
+361,"Macao Special Administrative Region of China",4
+44533,"China (without Hong Kong and Macao)",4
+491,"Anhui",5
+492,"Beijing",5
+493,"Chongqing",5
+494,"Fujian",5
+495,"Gansu",5
+496,"Guangdong",5
+497,"Guangxi",5
+498,"Guizhou",5
+499,"Hainan",5
+500,"Hebei",5
+501,"Heilongjiang",5
+502,"Henan",5
+503,"Hubei",5
+504,"Hunan",5
+505,"Inner Mongolia",5
+506,"Jiangsu",5
+507,"Jiangxi",5
+508,"Jilin",5
+509,"Liaoning",5
+510,"Ningxia",5
+511,"Qinghai",5
+512,"Shaanxi",5
+513,"Shandong",5
+514,"Shanghai",5
+515,"Shanxi",5
+516,"Sichuan",5
+517,"Tianjin",5
+518,"Tibet",5
+519,"Xinjiang",5
+520,"Yunnan",5
+521,"Zhejiang",5
+7,"North Korea",3
+8,"Taiwan",3
+9,"Southeast Asia",2
+10,"Cambodia",3
+11,"Indonesia",3
+4709,"Aceh",4
+4726,"Bali",4
+4717,"Bangka-Belitung Islands",4
+4725,"Banten",4
+4715,"Bengkulu",4
+4737,"Gorontalo",4
+4720,"Jakarta",4
+4713,"Jambi",4
+4721,"West Java",4
+4722,"Central Java",4
+4724,"East Java",4
+4729,"West Kalimantan",4
+4731,"South Kalimantan",4
+4730,"Central Kalimantan",4
+4732,"East Kalimantan",4
+4719,"North Kalimantan",4
+4718,"Riau Islands",4
+4716,"Lampung",4
+4739,"Maluku",4
+4740,"North Maluku",4
+4727,"West Nusa Tenggara",4
+4728,"East Nusa Tenggara",4
+4742,"Papua",4
+4741,"West Papua",4
+4712,"Riau",4
+4738,"West Sulawesi",4
+4735,"South Sulawesi",4
+4734,"Central Sulawesi",4
+4736,"Southeast Sulawesi",4
+4733,"North Sulawesi",4
+4711,"West Sumatra",4
+4714,"South Sumatra",4
+4710,"North Sumatra",4
+4723,"Yogyakarta",4
+12,"Laos",3
+13,"Malaysia",3
+14,"Maldives",3
+183,"Mauritius",3
+15,"Myanmar",3
+16,"Philippines",3
+17,"Sri Lanka",3
+186,"Seychelles",3
+18,"Thailand",3
+19,"Timor-Leste",3
+20,"Vietnam",3
+21,"Oceania",2
+298,"American Samoa",3
+25,"Federated States of Micronesia",3
+22,"Fiji",3
+351,"Guam",3
+23,"Kiribati",3
+24,"Marshall Islands",3
+376,"Northern Mariana Islands",3
+26,"Papua New Guinea",3
+27,"Samoa",3
+28,"Solomon Islands",3
+29,"Tonga",3
+30,"Vanuatu",3
+31,"Central Europe, Eastern Europe, and Central Asia",1
+32,"Central Asia",2
+33,"Armenia",3
+34,"Azerbaijan",3
+35,"Georgia",3
+36,"Kazakhstan",3
+37,"Kyrgyzstan",3
+38,"Mongolia",3
+39,"Tajikistan",3
+40,"Turkmenistan",3
+41,"Uzbekistan",3
+42,"Central Europe",2
+43,"Albania",3
+44,"Bosnia and Herzegovina",3
+45,"Bulgaria",3
+46,"Croatia",3
+47,"Czech Republic",3
+48,"Hungary",3
+49,"Macedonia",3
+50,"Montenegro",3
+51,"Poland",3
+52,"Romania",3
+53,"Serbia",3
+54,"Slovakia",3
+55,"Slovenia",3
+56,"Eastern Europe",2
+57,"Belarus",3
+58,"Estonia",3
+59,"Latvia",3
+60,"Lithuania",3
+61,"Moldova",3
+62,"Russia",3
+44895,"Central Federal District",4
+44903,"Belgorod Oblast",5
+44904,"Bryansk Oblast",5
+44907,"Ivanovo Oblast",5
+44908,"Kaluga Oblast",5
+44909,"Kostroma Oblast",5
+44910,"Kursk Oblast",5
+44911,"Lipetsk Oblast",5
+44920,"Moscow City",5
+44912,"Moscow Oblast",5
+44913,"Oryol Oblast",5
+44914,"Ryazan Oblast",5
+44915,"Smolensk Oblast",5
+44916,"Tambov Oblast",5
+44918,"Tula Oblast",5
+44917,"Tver Oblast",5
+44905,"Vladimir Oblast",5
+44906,"Voronezh Oblast",5
+44919,"Yaroslavl Oblast",5
+44902,"Far Eastern Federal District",4
+44983,"Amur Oblast",5
+44987,"Chukotka Autonomous Okrug",5
+44986,"Jewish Autonomous Oblast",5
+44980,"Kamchatka Krai",5
+44982,"Khabarovsk Krai",5
+44984,"Magadan Oblast",5
+44981,"Primorsky Krai",5
+44979,"Sakha Republic",5
+44985,"Sakhalin Oblast",5
+44898,"North Caucasian Federal District",4
+44945,"Chechnya",5
+44942,"Kabardino-Balkar Republic",5
+44943,"Karachay-Cherkess Republic",5
+44944,"North Ossetia-Alania",5
+44940,"Republic of Dagestan",5
+44941,"Republic of Ingushetia",5
+44946,"Stavropol Krai",5
+44896,"Northwestern Federal District",4
+44924,"Arkhangelsk Oblast without Nenets Autonomous Okrug",5
+44926,"Kaliningrad Oblast",5
+44922,"Komi Republic",5
+44927,"Leningrad Oblast",5
+44928,"Murmansk Oblast",5
+44923,"Nenets Autonomous Okrug",5
+44929,"Novgorod Oblast",5
+44930,"Pskov Oblast",5
+44921,"Republic of Karelia",5
+44931,"Saint Petersburg City",5
+44925,"Vologda Oblast",5
+44901,"Siberian Federal District",4
+44971,"Altai Krai",5
+44967,"Altai Republic",5
+44974,"Irkutsk Oblast",5
+44975,"Kemerovo Oblast",5
+44973,"Krasnoyarsk Krai",5
+44976,"Novosibirsk Oblast",5
+44977,"Omsk Oblast",5
+44968,"Republic of Buryatia",5
+44970,"Republic of Khakassia",5
+44978,"Tomsk Oblast",5
+44969,"Tuva",5
+44972,"Zabaykalsky Krai",5
+44897,"Southern Federal District",4
+44936,"Astrakhan Oblast",5
+44935,"Krasnodar Krai",5
+44932,"Republic of Adygea",5
+44933,"Republic of Kalmykia",5
+44938,"Rostov Oblast",5
+44939,"Sevastopol City",5
+44937,"Volgograd Oblast",5
+44900,"Ural Federal District",4
+44966,"Chelyabinsk Oblast",5
+44963,"Khanty-Mansi Autonomous Okrug",5
+44961,"Kurgan Oblast",5
+44962,"Sverdlovskaya Oblast",5
+44965,"Tyumen Oblast without Autonomous Okrug",5
+44964,"Yamalo-Nenets Autonomous Okrug",5
+44899,"Volga Federal District",4
+44952,"Chuvash Republic",5
+44954,"Kirov Oblast",5
+44948,"Mari El Republic",5
+44955,"Nizhny Novgorod Oblast",5
+44956,"Orenburg Oblast",5
+44957,"Penza Oblast",5
+44953,"Perm Krai",5
+44947,"Republic of Bashkortostan",5
+44949,"Republic of Mordovia",5
+44950,"Republic of Tatarstan",5
+44958,"Samara Oblast",5
+44959,"Saratov Oblast",5
+44951,"Udmurtia",5
+44960,"Ulyanovsk Oblast",5
+63,"Ukraine",3
+50559,"Ukraine (without Crimea)",4
+44934,"Crimea",4
+64,"High-income",1
+65,"High-income Asia Pacific",2
+66,"Brunei",3
+67,"Japan",3
+35446,"Aichi",4
+35428,"Akita",4
+35425,"Aomori",4
+35435,"Chiba",4
+35461,"Ehime",4
+35441,"Fukui",4
+35463,"Fukuoka",4
+35430,"Fukushima",4
+35444,"Gifu",4
+35433,"Gunma",4
+35457,"Hiroshima",4
+35424,"Hokkaidō",4
+35451,"Hyōgo",4
+35431,"Ibaraki",4
+35440,"Ishikawa",4
+35426,"Iwate",4
+35460,"Kagawa",4
+35469,"Kagoshima",4
+35437,"Kanagawa",4
+35462,"Kōchi",4
+35466,"Kumamoto",4
+35449,"Kyōto",4
+35447,"Mie",4
+35427,"Miyagi",4
+35468,"Miyazaki",4
+35443,"Nagano",4
+35465,"Nagasaki",4
+35452,"Nara",4
+35438,"Niigata",4
+35467,"Ōita",4
+35456,"Okayama",4
+35470,"Okinawa",4
+35450,"Ōsaka",4
+35464,"Saga",4
+35434,"Saitama",4
+35448,"Shiga",4
+35455,"Shimane",4
+35445,"Shizuoka",4
+35432,"Tochigi",4
+35459,"Tokushima",4
+35436,"Tōkyō",4
+35454,"Tottori",4
+35439,"Toyama",4
+35453,"Wakayama",4
+35429,"Yamagata",4
+35458,"Yamaguchi",4
+35442,"Yamanashi",4
+68,"South Korea",3
+69,"Singapore",3
+70,"Australasia",2
+71,"Australia",3
+72,"New Zealand",3
+44850,"New Zealand Maori population",4
+44851,"New Zealand non-Maori population",4
+73,"Western Europe",2
+74,"Andorra",3
+75,"Austria",3
+76,"Belgium",3
+77,"Cyprus",3
+78,"Denmark",3
+79,"Finland",3
+80,"France",3
+81,"Germany",3
+82,"Greece",3
+83,"Iceland",3
+84,"Ireland",3
+85,"Israel",3
+86,"Italy",3
+87,"Luxembourg",3
+88,"Malta",3
+89,"Netherlands",3
+90,"Norway",3
+4911,"Akershus",4
+4918,"Aust-Agder",4
+4915,"Buskerud",4
+4928,"Finmark",4
+4912,"Hedemark",4
+4921,"Hordaland",4
+4923,"Møre og Romsdal",4
+4925,"Nord-Trøndelag",4
+4926,"Nordland",4
+4913,"Oppland",4
+4910,"Oslo",4
+4914,"Østfold",4
+4920,"Rogaland",4
+4922,"Sogn og Fjordane",4
+4924,"Sør-Trøndelag",4
+4917,"Telemark",4
+4927,"Troms",4
+4919,"Vest-Agder",4
+4916,"Vestfold",4
+91,"Portugal",3
+92,"Spain",3
+93,"Sweden",3
+4944,"Stockholm",4
+4940,"Sweden except Stockholm",4
+94,"Switzerland",3
+95,"United Kingdom",3
+4749,"England",4
+4621,"East Midlands",5
+44697,"Derby",6
+44698,"Derbyshire",6
+44701,"Leicester",6
+44694,"Leicestershire",6
+44695,"Lincolnshire",6
+44693,"Northamptonshire",6
+44700,"Nottingham",6
+44699,"Nottinghamshire",6
+44696,"Rutland",6
+4623,"East of England",5
+44716,"Bedford",6
+44721,"Cambridgeshire",6
+44717,"Central Bedfordshire",6
+44720,"Essex",6
+44719,"Hertfordshire",6
+44726,"Luton",6
+44723,"Norfolk",6
+44725,"Peterborough",6
+44724,"Southend-on-Sea",6
+44718,"Suffolk",6
+44722,"Thurrock",6
+4624,"Greater London",5
+44754,"Barking and Dagenham",6
+44729,"Barnet",6
+44732,"Bexley",6
+44735,"Brent",6
+44731,"Bromley",6
+44748,"Camden",6
+44742,"Croydon",6
+44744,"Ealing",6
+44741,"Enfield",6
+44745,"Greenwich",6
+44756,"Hackney",6
+44743,"Hammersmith and Fulham",6
+44755,"Haringey",6
+44740,"Harrow",6
+44737,"Havering",6
+44736,"Hillingdon",6
+44751,"Hounslow",6
+44757,"Islington",6
+44728,"Kensington and Chelsea",6
+44738,"Kingston upon Thames",6
+44749,"Lambeth",6
+44750,"Lewisham",6
+44734,"Merton",6
+44753,"Newham",6
+44733,"Redbridge",6
+44727,"Richmond upon Thames",6
+44752,"Southwark",6
+44739,"Sutton",6
+44758,"Tower Hamlets",6
+44747,"Waltham Forest",6
+44746,"Wandsworth",6
+44730,"Westminster",6
+4618,"North East England",5
+44649,"County Durham",6
+44643,"Darlington",6
+44650,"Gateshead",6
+44654,"Hartlepool",6
+44651,"Middlesbrough",6
+44646,"Newcastle upon Tyne",6
+44647,"North Tyneside",6
+44644,"Northumberland",6
+44648,"Redcar and Cleveland",6
+44652,"South Tyneside",6
+44645,"Stockton-on-Tees",6
+44653,"Sunderland",6
+4619,"North West England",5
+44674,"Blackburn with Darwen",6
+44676,"Blackpool",6
+44662,"Bolton",6
+44664,"Bury",6
+44655,"Cheshire East",6
+44658,"Cheshire West and Chester",6
+44661,"Cumbria",6
+44670,"Halton",6
+44675,"Knowsley",6
+44660,"Lancashire",6
+44671,"Liverpool",6
+44677,"Manchester",6
+44667,"Oldham",6
+44668,"Rochdale",6
+44673,"Salford",6
+44659,"Sefton",6
+44665,"St Helens",6
+44656,"Stockport",6
+44672,"Tameside",6
+44657,"Trafford",6
+44666,"Warrington",6
+44669,"Wigan",6
+44663,"Wirral",6
+4625,"South East England",5
+44765,"Bracknell Forest",6
+44770,"Brighton and Hove",6
+44760,"Buckinghamshire",6
+44772,"East Sussex",6
+44764,"Hampshire",6
+44774,"Isle of Wight",6
+44769,"Kent",6
+44771,"Medway",6
+44775,"Milton Keynes",6
+44767,"Oxfordshire",6
+44773,"Portsmouth",6
+44768,"Reading",6
+44777,"Slough",6
+44776,"Southampton",6
+44761,"Surrey",6
+44763,"West Berkshire",6
+44766,"West Sussex",6
+44762,"Windsor and Maidenhead",6
+44759,"Wokingham",6
+4626,"South West England",5
+44784,"Bath and North East Somerset",6
+44790,"Bournemouth",6
+44789,"Bristol, City of",6
+44791,"Cornwall",6
+44782,"Devon",6
+44779,"Dorset",6
+44785,"Gloucestershire",6
+44781,"North Somerset",6
+44792,"Plymouth",6
+44783,"Poole",6
+44786,"Somerset",6
+44778,"South Gloucestershire",6
+44787,"Swindon",6
+44788,"Torbay",6
+44780,"Wiltshire",6
+4622,"West Midlands",5
+44714,"Birmingham",6
+44709,"Coventry",6
+44708,"Dudley",6
+44703,"Herefordshire, County of",6
+44715,"Sandwell",6
+44705,"Shropshire",6
+44704,"Solihull",6
+44707,"Staffordshire",6
+44711,"Stoke-on-Trent",6
+44710,"Telford and Wrekin",6
+44712,"Walsall",6
+44702,"Warwickshire",6
+44713,"Wolverhampton",6
+44706,"Worcestershire",6
+4620,"Yorkshire and the Humber",5
+44692,"Barnsley",6
+44684,"Bradford",6
+44682,"Calderdale",6
+44690,"Doncaster",6
+44679,"East Riding of Yorkshire",6
+44691,"Kingston upon Hull, City of",6
+44685,"Kirklees",6
+44686,"Leeds",6
+44681,"North East Lincolnshire",6
+44683,"North Lincolnshire",6
+44678,"North Yorkshire",6
+44689,"Rotherham",6
+44687,"Sheffield",6
+44688,"Wakefield",6
+44680,"York",6
+433,"Northern Ireland",4
+434,"Scotland",4
+4636,"Wales",4
+96,"Southern Latin America",2
+97,"Argentina",3
+98,"Chile",3
+99,"Uruguay",3
+100,"High-income North America",2
+101,"Canada",3
+349,"Greenland",3
+102,"United States",3
+523,"Alabama",4
+524,"Alaska",4
+525,"Arizona",4
+526,"Arkansas",4
+527,"California",4
+528,"Colorado",4
+529,"Connecticut",4
+530,"Delaware",4
+531,"District of Columbia",4
+532,"Florida",4
+533,"Georgia",4
+534,"Hawaii",4
+535,"Idaho",4
+536,"Illinois",4
+537,"Indiana",4
+538,"Iowa",4
+539,"Kansas",4
+540,"Kentucky",4
+541,"Louisiana",4
+542,"Maine",4
+543,"Maryland",4
+544,"Massachusetts",4
+545,"Michigan",4
+546,"Minnesota",4
+547,"Mississippi",4
+548,"Missouri",4
+549,"Montana",4
+550,"Nebraska",4
+551,"Nevada",4
+552,"New Hampshire",4
+553,"New Jersey",4
+554,"New Mexico",4
+555,"New York",4
+556,"North Carolina",4
+557,"North Dakota",4
+558,"Ohio",4
+559,"Oklahoma",4
+560,"Oregon",4
+561,"Pennsylvania",4
+562,"Rhode Island",4
+563,"South Carolina",4
+564,"South Dakota",4
+565,"Tennessee",4
+566,"Texas",4
+567,"Utah",4
+568,"Vermont",4
+569,"Virginia",4
+570,"Washington",4
+571,"West Virginia",4
+572,"Wisconsin",4
+573,"Wyoming",4
+103,"Latin America and Caribbean",1
+104,"Caribbean",2
+105,"Antigua and Barbuda",3
+106,"The Bahamas",3
+107,"Barbados",3
+108,"Belize",3
+305,"Bermuda",3
+109,"Cuba",3
+110,"Dominica",3
+111,"Dominican Republic",3
+112,"Grenada",3
+113,"Guyana",3
+114,"Haiti",3
+115,"Jamaica",3
+385,"Puerto Rico",3
+116,"Saint Lucia",3
+117,"Saint Vincent and the Grenadines",3
+118,"Suriname",3
+119,"Trinidad and Tobago",3
+422,"Virgin Islands, U.S.",3
+120,"Andean Latin America",2
+121,"Bolivia",3
+122,"Ecuador",3
+123,"Peru",3
+124,"Central Latin America",2
+125,"Colombia",3
+126,"Costa Rica",3
+127,"El Salvador",3
+128,"Guatemala",3
+129,"Honduras",3
+130,"Mexico",3
+4643,"Aguascalientes",4
+4644,"Baja California",4
+4645,"Baja California Sur",4
+4646,"Campeche",4
+4649,"Chiapas",4
+4650,"Chihuahua",4
+4647,"Coahuila",4
+4648,"Colima",4
+4651,"Distrito Federal",4
+4652,"Durango",4
+4653,"Guanajuato",4
+4654,"Guerrero",4
+4655,"Hidalgo",4
+4656,"Jalisco",4
+4657,"México",4
+4658,"Michoacán de Ocampo",4
+4659,"Morelos",4
+4660,"Nayarit",4
+4661,"Nuevo León",4
+4662,"Oaxaca",4
+4663,"Puebla",4
+4664,"Querétaro",4
+4665,"Quintana Roo",4
+4666,"San Luis Potosí",4
+4667,"Sinaloa",4
+4668,"Sonora",4
+4669,"Tabasco",4
+4670,"Tamaulipas",4
+4671,"Tlaxcala",4
+4672,"Veracruz de Ignacio de la Llave",4
+4673,"Yucatán",4
+4674,"Zacatecas",4
+131,"Nicaragua",3
+132,"Panama",3
+133,"Venezuela",3
+134,"Tropical Latin America",2
+135,"Brazil",3
+4750,"Acre",4
+4751,"Alagoas",4
+4753,"Amapá",4
+4752,"Amazonas",4
+4754,"Bahia",4
+4755,"Ceará",4
+4756,"Distrito Federal",4
+4757,"Espírito Santo",4
+4758,"Goiás",4
+4759,"Maranhão",4
+4762,"Mato Grosso",4
+4761,"Mato Grosso do Sul",4
+4760,"Minas Gerais",4
+4763,"Pará",4
+4764,"Paraíba",4
+4765,"Paraná",4
+4766,"Pernambuco",4
+4767,"Piaui",4
+4768,"Rio de Janeiro",4
+4769,"Rio Grande do Norte",4
+4772,"Rio Grande do Sul",4
+4770,"Rondônia",4
+4771,"Roraima",4
+4773,"Santa Catarina",4
+4775,"São Paulo",4
+4774,"Sergipe",4
+4776,"Tocantins",4
+136,"Paraguay",3
+137,"North Africa and Middle East",1
+138,"North Africa and Middle East",2
+160,"Afghanistan",3
+139,"Algeria",3
+140,"Bahrain",3
+141,"Egypt",3
+142,"Iran",3
+44864,"Alborz",4
+44865,"Ardebil",4
+44868,"Bushehr",4
+44869,"Chahar Mahaal and Bakhtiari",4
+44866,"East Azarbayejan",4
+44870,"Fars",4
+44871,"Gilan",4
+44872,"Golestan",4
+44873,"Hamadan",4
+44874,"Hormozgan",4
+44875,"Ilam",4
+44876,"Isfahan",4
+44877,"Kerman",4
+44878,"Kermanshah",4
+44880,"Khorasan-e-Razavi",4
+44882,"Khuzestan",4
+44883,"Kohgiluyeh and Boyer-Ahmad",4
+44884,"Kurdistan",4
+44885,"Lorestan",4
+44886,"Markazi",4
+44887,"Mazandaran",4
+44879,"North Khorasan",4
+44888,"Qazvin",4
+44889,"Qom",4
+44890,"Semnan",4
+44891,"Sistan and Baluchistan",4
+44881,"South Khorasan",4
+44892,"Tehran",4
+44867,"West Azarbayejan",4
+44893,"Yazd",4
+44894,"Zanjan",4
+143,"Iraq",3
+144,"Jordan",3
+145,"Kuwait",3
+146,"Lebanon",3
+147,"Libya",3
+148,"Morocco",3
+149,"Palestine",3
+150,"Oman",3
+151,"Qatar",3
+152,"Saudi Arabia",3
+522,"Sudan",3
+153,"Syria",3
+154,"Tunisia",3
+155,"Turkey",3
+156,"United Arab Emirates",3
+157,"Yemen",3
+158,"South Asia",1
+159,"South Asia",2
+161,"Bangladesh",3
+162,"Bhutan",3
+163,"India",3
+4841,"Andhra Pradesh",4
+43908,"Andhra Pradesh, Rural",5
+43872,"Andhra Pradesh, Urban",5
+4842,"Arunachal Pradesh",4
+43909,"Arunachal Pradesh, Rural",5
+43873,"Arunachal Pradesh, Urban",5
+4843,"Assam",4
+43910,"Assam, Rural",5
+43874,"Assam, Urban",5
+4844,"Bihar",4
+43911,"Bihar, Rural",5
+43875,"Bihar, Urban",5
+4846,"Chhattisgarh",4
+43913,"Chhattisgarh, Rural",5
+43877,"Chhattisgarh, Urban",5
+4849,"Delhi",4
+43916,"Delhi, Rural",5
+43880,"Delhi, Urban",5
+4850,"Goa",4
+43917,"Goa, Rural",5
+43881,"Goa, Urban",5
+4851,"Gujarat",4
+43918,"Gujarat, Rural",5
+43882,"Gujarat, Urban",5
+4852,"Haryana",4
+43919,"Haryana, Rural",5
+43883,"Haryana, Urban",5
+4853,"Himachal Pradesh",4
+43920,"Himachal Pradesh, Rural",5
+43884,"Himachal Pradesh, Urban",5
+4854,"Jammu and Kashmir",4
+43921,"Jammu and Kashmir, Rural",5
+43885,"Jammu and Kashmir, Urban",5
+4855,"Jharkhand",4
+43922,"Jharkhand, Rural",5
+43886,"Jharkhand, Urban",5
+4856,"Karnataka",4
+43923,"Karnataka, Rural",5
+43887,"Karnataka, Urban",5
+4857,"Kerala",4
+43924,"Kerala, Rural",5
+43888,"Kerala, Urban",5
+4859,"Madhya Pradesh",4
+43926,"Madhya Pradesh, Rural",5
+43890,"Madhya Pradesh, Urban",5
+4860,"Maharashtra",4
+43927,"Maharashtra, Rural",5
+43891,"Maharashtra, Urban",5
+4861,"Manipur",4
+43928,"Manipur, Rural",5
+43892,"Manipur, Urban",5
+4862,"Meghalaya",4
+43929,"Meghalaya, Rural",5
+43893,"Meghalaya, Urban",5
+4863,"Mizoram",4
+43930,"Mizoram, Rural",5
+43894,"Mizoram, Urban",5
+4864,"Nagaland",4
+43931,"Nagaland, Rural",5
+43895,"Nagaland, Urban",5
+4865,"Odisha",4
+43932,"Odisha, Rural",5
+43896,"Odisha, Urban",5
+4867,"Punjab",4
+43934,"Punjab, Rural",5
+43898,"Punjab, Urban",5
+4868,"Rajasthan",4
+43935,"Rajasthan, Rural",5
+43899,"Rajasthan, Urban",5
+4869,"Sikkim",4
+43936,"Sikkim, Rural",5
+43900,"Sikkim, Urban",5
+4870,"Tamil Nadu",4
+43937,"Tamil Nadu, Rural",5
+43901,"Tamil Nadu, Urban",5
+4871,"Telangana",4
+43938,"Telangana, Rural",5
+43902,"Telangana, Urban",5
+4872,"Tripura",4
+43939,"Tripura, Rural",5
+43903,"Tripura, Urban",5
+4873,"Uttar Pradesh",4
+43940,"Uttar Pradesh, Rural",5
+43904,"Uttar Pradesh, Urban",5
+4874,"Uttarakhand",4
+43941,"Uttarakhand, Rural",5
+43905,"Uttarakhand, Urban",5
+4875,"West Bengal",4
+43942,"West Bengal, Rural",5
+43906,"West Bengal, Urban",5
+44538,"Union Territories other than Delhi",4
+44539,"Union Territories other than Delhi, Rural",5
+44540,"Union Territories other than Delhi, Urban",5
+164,"Nepal",3
+165,"Pakistan",3
+166,"Sub-Saharan Africa",1
+167,"Central Sub-Saharan Africa",2
+168,"Angola",3
+169,"Central African Republic",3
+170,"Congo",3
+171,"Democratic Republic of the Congo",3
+172,"Equatorial Guinea",3
+173,"Gabon",3
+174,"Eastern Sub-Saharan Africa",2
+175,"Burundi",3
+176,"Comoros",3
+177,"Djibouti",3
+178,"Eritrea",3
+179,"Ethiopia",3
+44861,"Addis Ababa",4
+44853,"Afar",4
+44854,"Amhara",4
+44857,"Benishangul-Gumuz",4
+44862,"Dire Dawa",4
+44860,"Gambella",4
+44859,"Harari",4
+44855,"Oromia",4
+44856,"Somali",4
+44858,"Southern Nations, Nationalities, and Peoples",4
+44852,"Tigray",4
+180,"Kenya",3
+44793,"Central",4
+35629,"Kiambu",5
+35631,"Kirinyaga",5
+35645,"Murang’a",5
+35651,"Nyandarua",5
+35652,"Nyeri",5
+44794,"Coast",4
+35630,"Kilifi",5
+35635,"Kwale",5
+35637,"Lamu",5
+35644,"Mombasa",5
+35655,"TaitaTaveta",5
+35656,"TanaRiver",5
+44795,"Eastern",4
+35622,"Embu",5
+35625,"Isiolo",5
+35634,"Kitui",5
+35638,"Machakos",5
+35639,"Makueni",5
+35641,"Marsabit",5
+35642,"Meru",5
+35657,"TharakaNithi",5
+44796,"Nairobi",4
+35646,"Nairobi",5
+44797,"North Eastern",4
+35623,"Garissa",5
+35640,"Mandera",5
+35662,"Wajir",5
+44798,"Nyanza",4
+35624,"HomaBay",5
+35632,"Kisii",5
+35633,"Kisumu",5
+35643,"Migori",5
+35650,"Nyamira",5
+35654,"Siaya",5
+44799,"Rift Valley",4
+35617,"Baringo",5
+35618,"Bomet",5
+35621,"Elgeyo-Marakwet",5
+35626,"Kajiado",5
+35628,"Kericho",5
+35636,"Laikipia",5
+35647,"Nakuru",5
+35648,"Nandi",5
+35649,"Narok",5
+35653,"Samburu",5
+35658,"TransNzoia",5
+35659,"Turkana",5
+35660,"UasinGishu",5
+35663,"WestPokot",5
+44800,"Western",4
+35619,"Bungoma",5
+35620,"Busia",5
+35627,"Kakamega",5
+35661,"Vihiga",5
+181,"Madagascar",3
+182,"Malawi",3
+184,"Mozambique",3
+185,"Rwanda",3
+187,"Somalia",3
+435,"South Sudan",3
+189,"Tanzania",3
+190,"Uganda",3
+191,"Zambia",3
+192,"Southern Sub-Saharan Africa",2
+193,"Botswana",3
+194,"Lesotho",3
+195,"Namibia",3
+196,"South Africa",3
+482,"Eastern Cape",4
+483,"Free State",4
+484,"Gauteng",4
+485,"KwaZulu-Natal",4
+486,"Limpopo",4
+487,"Mpumalanga",4
+488,"North-West",4
+489,"Northern Cape",4
+490,"Western Cape",4
+197,"Swaziland",3
+198,"Zimbabwe",3
+199,"Western Sub-Saharan Africa",2
+200,"Benin",3
+201,"Burkina Faso",3
+202,"Cameroon",3
+203,"Cape Verde",3
+204,"Chad",3
+205,"Cote d'Ivoire",3
+206,"The Gambia",3
+207,"Ghana",3
+208,"Guinea",3
+209,"Guinea-Bissau",3
+210,"Liberia",3
+211,"Mali",3
+212,"Mauritania",3
+213,"Niger",3
+214,"Nigeria",3
+215,"Sao Tome and Principe",3
+216,"Senegal",3
+217,"Sierra Leone",3
+218,"Togo",3
